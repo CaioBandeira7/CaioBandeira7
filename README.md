@@ -1,24 +1,36 @@
-## Caio Bandeira
+# Caio Bandeira
 
-Data scientist in Brasília. I build machine-learning systems on Brazilian public data.
+**Data Scientist | Machine Learning | AI Engineering**
 
-Data Science & Machine Learning at UniCEUB (graduating 2027) · Data intelligence intern at PPN Tecnologia · Law graduate, formerly at the Chamber of Deputies and TJDFT.
+Data Science undergraduate at UniCEUB (expected graduation: 2027), based in Brasília, Brazil. Currently working in data intelligence at PPN Tecnologia, with a background in Law and experience in public-sector technology.
 
-**Portfolio:** [caiobandeira7.github.io](https://caiobandeira7.github.io) · **LinkedIn:** [caio-bandeira-cv](https://www.linkedin.com/in/caio-bandeira-cv)
+I build data-driven products, from data pipelines and statistical models to APIs, dashboards and AI-powered applications.
 
-### Projects
+### Featured Projects
 
-| Project | What it is | Stack | Status |
-|---|---|---|---|
-| [ANAC Flight Intelligence API](https://github.com/CaioBandeira7/anac-flight-intelligence-api-main) | Four models behind one API (BiLSTM, FT-Transformer, MLP, LightGBM stack) predicting airport congestion, seat occupancy, price pressure and excess baggage, trained on 20 GB of ANAC data. | PyTorch, LightGBM, Polars, FastAPI, Railway | Deployed |
-| [Mandato365](https://github.com/CaioBandeira7/political-intelligence-platform-showcase-main) | Political intelligence SaaS for Brazilian federal deputies: AI press clipping, electoral maps, social media analytics. Built solo and sold to real clients. | Next.js, TypeScript, PostgreSQL, Claude API, Vercel | Discontinued 2026 (case study) |
+| Project | Description | Technologies |
+|---|---|---|
+| [**F1 Strategy Intelligence**](https://github.com/CaioBandeira7/f1-strategy-intelligence) | Analysed 54 Formula 1 races and 50,580 laps across three seasons. Built a lap-time regression model, temporal validation with race-level bootstrap, tyre degradation analysis and pit-strategy simulators. Delivered a seven-page SAS Visual Analytics dashboard. | SAS, CAS, Python, OpenF1, Statistical Modelling |
+| [**ANAC Flight Intelligence API**](https://github.com/CaioBandeira7/anac-flight-intelligence-api-main) | Developed an aviation intelligence API combining machine-learning models for airport congestion, seat occupancy, pricing pressure and excess baggage, using Brazilian aviation data. | Python, PyTorch, LightGBM, Polars, FastAPI |
+| [**Mandato365**](https://www.mandato365.com.br/) | Independently developed a political intelligence SaaS integrating Brazilian public-sector data, social-media analytics, generative AI workflows and automated reporting. | Next.js, TypeScript, PostgreSQL, Claude API, Vercel |
 
-### Toolkit
+### Technical Skills
 
-- **ML:** Python, PyTorch, LightGBM, scikit-learn, Polars, pandas
-- **Data:** SQL, PostgreSQL, BigQuery, SAS
-- **BI:** Power BI, Tableau, Looker Studio, SAS Visual Analytics
-- **Automation:** UiPath
-- **Product:** FastAPI, Next.js, TypeScript, Vercel, LLM APIs
+**Machine Learning & Statistics:** Python, scikit-learn, LightGBM, PyTorch, regression modelling, temporal validation, statistical inference.
 
-Portuguese (native) · English (advanced) · Spanish (intermediate)
+**Data Engineering & Analytics:** SQL, PostgreSQL, Polars, pandas, SAS, CAS, BigQuery.
+
+**AI & Software Development:** LLM APIs, generative AI workflows, FastAPI, REST APIs, Next.js, TypeScript.
+
+**Visualisation & Automation:** SAS Visual Analytics, Power BI, Tableau, Looker Studio, UiPath.
+
+### Background
+
+- **Education:** BSc in Data Science — UniCEUB, expected 2027.
+- **Current experience:** Data Intelligence Intern — PPN Tecnologia.
+- **Previous experience:** Câmara dos Deputados and TJDFT.
+- **Previous degree:** Law.
+
+### Connect
+
+[**Portfolio**](https://caiobandeira7.github.io/) · [**LinkedIn**](https://www.linkedin.com/in/caio-bandeira-cv/) · [**GitHub**](https://github.com/CaioBandeira7)
