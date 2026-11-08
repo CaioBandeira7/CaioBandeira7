@@ -10,9 +10,11 @@ I build data-driven products, from data pipelines and statistical models to APIs
 
 | Project | Description | Technologies |
 |---|---|---|
-| [**F1 Strategy Intelligence**](https://github.com/CaioBandeira7/f1-strategy-intelligence) | Analysed 54 Formula 1 races and 50,580 laps across three seasons. Built a lap-time regression model, temporal validation with race-level bootstrap, tyre degradation analysis and pit-strategy simulators. Delivered a seven-page SAS Visual Analytics dashboard. | SAS, CAS, Python, OpenF1, Statistical Modelling |
-| [**ANAC Flight Intelligence API**](https://github.com/CaioBandeira7/anac-flight-intelligence-api-main) | Developed an aviation intelligence API combining machine-learning models for airport congestion, seat occupancy, pricing pressure and excess baggage, using Brazilian aviation data. | Python, PyTorch, LightGBM, Polars, FastAPI |
+| [**ANAC Flight Intelligence**](https://github.com/CaioBandeira7/anac-flight-intelligence-api-main) | End-to-end aviation platform over **22,120,241 ANAC records**: audited Parquet ingestion, an analytical dashboard, four LightGBM regressors evaluated against baselines, and a Groq tool-calling AI analyst. Reports historical validation and methodological limitations, not operational forecasts. | Python, Polars, DuckDB, LightGBM, FastAPI, Next.js, Groq |
+| [**F1 Strategy Intelligence**](https://github.com/CaioBandeira7/f1-strategy-intelligence) | Analysed **54 dry Formula 1 races and 50,580 laps** across 2023–2025. Built temporal lap-time regression evaluation with race-level bootstrap, tyre degradation analysis and independent pit-strategy simulations. Delivered a seven-page SAS Visual Analytics dashboard. | SAS Viya, CAS, Python, OpenF1, Statistical Modelling |
 | [**Mandato365**](https://www.mandato365.com.br/) | Independently developed a political intelligence SaaS integrating Brazilian public-sector data, social-media analytics, generative AI workflows and automated reporting. | Next.js, TypeScript, PostgreSQL, Claude API, Vercel |
+
+**Explore ANAC:** [Live dashboard](https://anac-flight-intelligence-api-main.vercel.app/dashboard) · [ML Studio](https://anac-flight-intelligence-api-main.vercel.app/dashboard/ml-studio) · [AI Analyst](https://anac-flight-intelligence-api-main.vercel.app/dashboard/analyst) · [English presentation](https://github.com/CaioBandeira7/anac-flight-intelligence-api-main/blob/main/docs/portfolio/presentation/anac-flight-intelligence-presentation-en.pdf)
 
 ### Technical Skills
 
