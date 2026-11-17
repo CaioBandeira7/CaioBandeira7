@@ -6,13 +6,13 @@ Data Science undergraduate at UniCEUB (expected graduation: 2027), based in Bras
 
 I build data-driven products, from data pipelines and statistical models to APIs, dashboards and AI-powered applications.
 
-🚧 Currently building [**Baya.io**](https://github.com/CaioBandeira7/baya-io) — a real-time, context-aware AI copilot that listens to live conversations and is evolving toward document-grounded (RAG) assistance for technical, business and legal meetings.
+🤖 Latest project: [**Baya.io**](https://github.com/CaioBandeira7/baya-io), a local AI copilot that follows live, authorized conversations and shows answers grounded in your own documents, with sources, on an iPad second screen.
 
 ### Featured Projects
 
 | Project | Description | Technologies |
 |---|---|---|
-| [**Baya.io**](https://github.com/CaioBandeira7/baya-io) 🚧 | Work in progress: a local, real-time AI meeting copilot. The current prototype captures system audio, detects speech with WebRTC VAD, transcribes with Faster-Whisper on GPU and shows grounded cues from prepared notes, using a local LLM only as a constrained fallback. Next: document ingestion, RAG and source citations. | Python, Faster-Whisper, WebRTC VAD, Ollama (Llama 3.2), Tkinter |
+| [**Baya.io**](https://github.com/CaioBandeira7/baya-io) | Local real-time AI meeting copilot (MVP complete). Captures system audio or the microphone, transcribes with Faster-Whisper on GPU, retrieves passages from PDF/DOCX/Markdown/TXT documents with BM25, and shows a short answer from a local LLM with a verified citation and the original excerpt. The PC is the control panel and an iPad on the same Wi-Fi is a results-only second screen. 96 automated tests. | Python, Faster-Whisper, WebRTC VAD, Ollama (Qwen 2.5), FastAPI, SSE, BM25 |
 | [**ANAC Flight Intelligence**](https://github.com/CaioBandeira7/anac-flight-intelligence-api-main) | End-to-end aviation platform over **22,120,241 ANAC records**: audited Parquet ingestion, an analytical dashboard, four LightGBM regressors evaluated against baselines, and a Groq tool-calling AI analyst. Reports historical validation and methodological limitations, not operational forecasts. | Python, Polars, DuckDB, LightGBM, FastAPI, Next.js, Groq |
 | [**F1 Strategy Intelligence**](https://github.com/CaioBandeira7/f1-strategy-intelligence) | Analysed **54 dry Formula 1 races and 50,580 laps** across 2023–2025. Built temporal lap-time regression evaluation with race-level bootstrap, tyre degradation analysis and independent pit-strategy simulations. Delivered a seven-page SAS Visual Analytics dashboard. | SAS Viya, CAS, Python, OpenF1, Statistical Modelling |
 | [**Mandato365**](https://www.mandato365.com.br/) | Independently developed a political intelligence SaaS integrating Brazilian public-sector data, social-media analytics, generative AI workflows and automated reporting. | Next.js, TypeScript, PostgreSQL, Claude API, Vercel |
